@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UmaSahni/render-json-server.git"
+    "url": "https://github.com/arakash-developer?tab=repositories"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/UmaSahni/render-json-server/issues"
+    "url": "https://github.com/arakash-developer"
   },
-  "homepage": "https://github.com/UmaSahni/render-json-server#readme",
+  "homepage": "https://github.com/arakash-developer",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
