@@ -1,0 +1,632 @@
+{
+    "products": [
+      {
+        "id": "78c977fa587c412cbd573561",
+        "title": "MSI MPG 491CQP QD-OLED 49 DQHD 144Hz Curved Gaming Monitor",
+        "description": "MSI MPG 491CQP QD-OLED 49 DQHD 144Hz Curved Monitor The MSI MPG 491CQP QD-OLED is a top-tier gaming monitor designed to deliver an immersive and high-performance gaming experience. Featuring a 49-inch QD-OLED panel with DQHD (5120 x 1440) resolution and 1800R curvature, it provides stunning clarity and a panoramic view that wraps around your field of vision. The 144Hz refresh rate and 0.3ms response time ensure ultra-smooth and responsive gameplay, while the 1,500",
+        "category": "pc",
+        "price": 129.99,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 35,
+        "tags": [
+          "PC case",
+          "ARGB",
+          "MSI",
+          "Gaming",
+          "Tempered glass"
+        ],
+        "brand": "MSI",
+        "sku": "MPG110R-GUN",
+        "weight": 6.5,
+        "dimensions": {
+          "width": 215,
+          "height": 450,
+          "depth": 430
+        },
+        "warrantyInformation": "2-year limited warranty",
+        "shippingInformation": "Ships within 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-12-15T10:26:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Good value for the price.",
+            "date": "2024-08-27T08:46:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "dana@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Works as expected, no complaints.",
+            "date": "2024-06-22T00:03:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "bob@example.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-10-21T15:40:00.000Z",
+            "reviewerName": "Dana Lee",
+            "reviewerEmail": "bob@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-08-19T15:34:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "dana@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Could be better, but does the job.",
+            "date": "2024-04-13T11:23:00.000Z",
+            "reviewerName": "Alice Brown",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-04-18T19:33:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "charlie@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-12-13T19:50:00.000Z",
+            "reviewerName": "Charlie Johnson",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Could be better, but does the job.",
+            "date": "2024-02-14T15:24:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "dana@example.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-05-09T06:55:00.000Z",
+            "reviewerName": "Alice Brown",
+            "reviewerEmail": "evan@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Good value for the price.",
+            "date": "2024-04-08T05:01:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "bob@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-12-24T12:26:00.000Z",
+            "reviewerName": "Dana Lee",
+            "reviewerEmail": "charlie@example.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-08-28T11:27:00.000Z",
+            "reviewerName": "Dana Lee",
+            "reviewerEmail": "evan@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-12-18T07:32:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "charlie@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Works as expected, no complaints.",
+            "date": "2024-01-14T02:40:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Could be better, but does the job.",
+            "date": "2024-05-14T09:34:00.000Z",
+            "reviewerName": "Alice Brown",
+            "reviewerEmail": "alice@example.com"
+          }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-10-17T10:56:21.619Z",
+          "updatedAt": "2024-10-17T10:56:21.619Z",
+          "barcode": "2210136215090",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/mpg-491cqp-qd-oled-06-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/491cqp-02-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/mpg-491cqp-qd-oled-07-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/491cqp-05-500x500.webp"
+        ],
+        "thumbnail": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/mpg-491cqp-qd-oled-06-500x500.webp"
+      },
+      {
+        "id": "79c977fa587c412cbd573562",
+        "title": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray",
+        "description": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray Apple's thinnest, lightest notebook, completely transformed by the Apple M1 chip. CPU speeds up to 3.5x faster. GPU speeds up to 5x faster. Our most advanced Neural Engine for up to 9x faster machine learning. The longest battery life ever in a MacBook Air. And a silent, fanless design. This much power has never been this ready to go. Itâ€™s here. Our first chip designed specifically for Mac. Packed with an astonishing 16 billion transistors, the Apple M1 system on a chip (SoC) integrates the CPU, GPU, Neural Engine, I/O, and so much more onto a single tiny chip. With incredible performance, custom technologies, and industry-leading power efficiency,1 M1 is not just a next step for Mac â€” itâ€™s another level entirely.M1 has the fastest CPU weâ€™ve ever made. With that kind of processing speed, MacBook Air can take on new extraordinarily intensive tasks like professional-quality editing and action-packed gaming. But the 8â€core CPU on M1 isnât just up to 3.5x faster than the previous generation2 â€” it balances high-performance cores with efficiency cores that can still crush everyday jobs while using just a tenth of the power.Up to 7-core GPUThe GPU in M1 puts MacBook Air in a class of its own. M1 features the worldâ€s fastest integrated graphics in a personal computer.8 Thatâ€™s up to 5x faster graphics performance compared with the previous generation.",
+        "category": "laptop",
+        "price": 129.99,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 35,
+        "tags": [
+          "PC case",
+          "ARGB",
+          "MSI",
+          "Gaming",
+          "Tempered glass"
+        ],
+        "brand": "MSI",
+        "sku": "MPG110R-GUN",
+        "weight": 6.5,
+        "dimensions": {
+          "width": 215,
+          "height": 450,
+          "depth": 430
+        },
+        "warrantyInformation": "2-year limited warranty",
+        "shippingInformation": "Ships within 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-12-15T10:26:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Good value for the price.",
+            "date": "2024-08-27T08:46:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "dana@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Works as expected, no complaints.",
+            "date": "2024-06-22T00:03:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "bob@example.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-10-21T15:40:00.000Z",
+            "reviewerName": "Dana Lee",
+            "reviewerEmail": "bob@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-08-19T15:34:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "dana@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Could be better, but does the job.",
+            "date": "2024-04-13T11:23:00.000Z",
+            "reviewerName": "Alice Brown",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-04-18T19:33:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "charlie@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-12-13T19:50:00.000Z",
+            "reviewerName": "Charlie Johnson",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Could be better, but does the job.",
+            "date": "2024-02-14T15:24:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "dana@example.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-05-09T06:55:00.000Z",
+            "reviewerName": "Alice Brown",
+            "reviewerEmail": "evan@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Good value for the price.",
+            "date": "2024-04-08T05:01:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "bob@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-12-24T12:26:00.000Z",
+            "reviewerName": "Dana Lee",
+            "reviewerEmail": "charlie@example.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-08-28T11:27:00.000Z",
+            "reviewerName": "Dana Lee",
+            "reviewerEmail": "evan@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-12-18T07:32:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "charlie@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Works as expected, no complaints.",
+            "date": "2024-01-14T02:40:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Could be better, but does the job.",
+            "date": "2024-05-14T09:34:00.000Z",
+            "reviewerName": "Alice Brown",
+            "reviewerEmail": "alice@example.com"
+          }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-10-17T10:56:21.619Z",
+          "updatedAt": "2024-10-17T10:56:21.619Z",
+          "barcode": "2210136215090",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-2-500x500.jpg"
+        ],
+        "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp"
+      },
+      {
+        "id": "79c977fa587c412cbd573563",
+        "title": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray",
+        "description": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray Apple's thinnest, lightest notebook, completely transformed by the Apple M1 chip. CPU speeds up to 3.5x faster. GPU speeds up to 5x faster. Our most advanced Neural Engine for up to 9x faster machine learning. The longest battery life ever in a MacBook Air. And a silent, fanless design. This much power has never been this ready to go. Itâ€™s here. Our first chip designed specifically for Mac. Packed with an astonishing 16 billion transistors, the Apple M1 system on a chip (SoC) integrates the CPU, GPU, Neural Engine, I/O, and so much more onto a single tiny chip. With incredible performance, custom technologies, and industry-leading power efficiency,1 M1 is not just a next step for Mac â€” itâ€™s another level entirely.M1 has the fastest CPU weâ€™ve ever made. With that kind of processing speed, MacBook Air can take on new extraordinarily intensive tasks like professional-quality editing and action-packed gaming. But the 8â€core CPU on M1 isnât just up to 3.5x faster than the previous generation2 â€” it balances high-performance cores with efficiency cores that can still crush everyday jobs while using just a tenth of the power.Up to 7-core GPUThe GPU in M1 puts MacBook Air in a class of its own. M1 features the worldâ€s fastest integrated graphics in a personal computer.8 Thatâ€™s up to 5x faster graphics performance compared with the previous generation.",
+        "category": "laptop",
+        "price": 129.99,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 35,
+        "tags": [
+          "PC case",
+          "ARGB",
+          "MSI",
+          "Gaming",
+          "Tempered glass"
+        ],
+        "brand": "MSI",
+        "sku": "MPG110R-GUN",
+        "weight": 6.5,
+        "dimensions": {
+          "width": 215,
+          "height": 450,
+          "depth": 430
+        },
+        "warrantyInformation": "2-year limited warranty",
+        "shippingInformation": "Ships within 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-12-15T10:26:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Good value for the price.",
+            "date": "2024-08-27T08:46:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "dana@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Works as expected, no complaints.",
+            "date": "2024-06-22T00:03:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "bob@example.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-10-21T15:40:00.000Z",
+            "reviewerName": "Dana Lee",
+            "reviewerEmail": "bob@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-08-19T15:34:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "dana@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Could be better, but does the job.",
+            "date": "2024-04-13T11:23:00.000Z",
+            "reviewerName": "Alice Brown",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-04-18T19:33:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "charlie@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-12-13T19:50:00.000Z",
+            "reviewerName": "Charlie Johnson",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Could be better, but does the job.",
+            "date": "2024-02-14T15:24:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "dana@example.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-05-09T06:55:00.000Z",
+            "reviewerName": "Alice Brown",
+            "reviewerEmail": "evan@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Good value for the price.",
+            "date": "2024-04-08T05:01:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "bob@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-12-24T12:26:00.000Z",
+            "reviewerName": "Dana Lee",
+            "reviewerEmail": "charlie@example.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-08-28T11:27:00.000Z",
+            "reviewerName": "Dana Lee",
+            "reviewerEmail": "evan@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-12-18T07:32:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "charlie@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Works as expected, no complaints.",
+            "date": "2024-01-14T02:40:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Could be better, but does the job.",
+            "date": "2024-05-14T09:34:00.000Z",
+            "reviewerName": "Alice Brown",
+            "reviewerEmail": "alice@example.com"
+          }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-10-17T10:56:21.619Z",
+          "updatedAt": "2024-10-17T10:56:21.619Z",
+          "barcode": "2210136215090",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-2-500x500.jpg"
+        ],
+        "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp"
+      },
+      {
+        "id": "79c977fa587c412cbd573564",
+        "title": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray",
+        "description": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray Apple's thinnest, lightest notebook, completely transformed by the Apple M1 chip. CPU speeds up to 3.5x faster. GPU speeds up to 5x faster. Our most advanced Neural Engine for up to 9x faster machine learning. The longest battery life ever in a MacBook Air. And a silent, fanless design. This much power has never been this ready to go. Itâ€™s here. Our first chip designed specifically for Mac. Packed with an astonishing 16 billion transistors, the Apple M1 system on a chip (SoC) integrates the CPU, GPU, Neural Engine, I/O, and so much more onto a single tiny chip. With incredible performance, custom technologies, and industry-leading power efficiency,1 M1 is not just a next step for Mac â€” itâ€™s another level entirely.M1 has the fastest CPU weâ€™ve ever made. With that kind of processing speed, MacBook Air can take on new extraordinarily intensive tasks like professional-quality editing and action-packed gaming. But the 8â€core CPU on M1 isnât just up to 3.5x faster than the previous generation2 â€” it balances high-performance cores with efficiency cores that can still crush everyday jobs while using just a tenth of the power.Up to 7-core GPUThe GPU in M1 puts MacBook Air in a class of its own. M1 features the worldâ€s fastest integrated graphics in a personal computer.8 Thatâ€™s up to 5x faster graphics performance compared with the previous generation.",
+        "category": "laptop",
+        "price": 129.99,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 35,
+        "tags": [
+          "PC case",
+          "ARGB",
+          "MSI",
+          "Gaming",
+          "Tempered glass"
+        ],
+        "brand": "MSI",
+        "sku": "MPG110R-GUN",
+        "weight": 6.5,
+        "dimensions": {
+          "width": 215,
+          "height": 450,
+          "depth": 430
+        },
+        "warrantyInformation": "2-year limited warranty",
+        "shippingInformation": "Ships within 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-12-15T10:26:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Good value for the price.",
+            "date": "2024-08-27T08:46:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "dana@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Works as expected, no complaints.",
+            "date": "2024-06-22T00:03:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "bob@example.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-10-21T15:40:00.000Z",
+            "reviewerName": "Dana Lee",
+            "reviewerEmail": "bob@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-08-19T15:34:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "dana@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Could be better, but does the job.",
+            "date": "2024-04-13T11:23:00.000Z",
+            "reviewerName": "Alice Brown",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-04-18T19:33:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "charlie@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-12-13T19:50:00.000Z",
+            "reviewerName": "Charlie Johnson",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Could be better, but does the job.",
+            "date": "2024-02-14T15:24:00.000Z",
+            "reviewerName": "Bob Smith",
+            "reviewerEmail": "dana@example.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-05-09T06:55:00.000Z",
+            "reviewerName": "Alice Brown",
+            "reviewerEmail": "evan@example.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Good value for the price.",
+            "date": "2024-04-08T05:01:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "bob@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-12-24T12:26:00.000Z",
+            "reviewerName": "Dana Lee",
+            "reviewerEmail": "charlie@example.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Amazing product, would buy again!",
+            "date": "2024-08-28T11:27:00.000Z",
+            "reviewerName": "Dana Lee",
+            "reviewerEmail": "evan@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Not satisfied, lacks essential features.",
+            "date": "2024-12-18T07:32:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "charlie@example.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Works as expected, no complaints.",
+            "date": "2024-01-14T02:40:00.000Z",
+            "reviewerName": "Evan Williams",
+            "reviewerEmail": "alice@example.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Could be better, but does the job.",
+            "date": "2024-05-14T09:34:00.000Z",
+            "reviewerName": "Alice Brown",
+            "reviewerEmail": "alice@example.com"
+          }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-10-17T10:56:21.619Z",
+          "updatedAt": "2024-10-17T10:56:21.619Z",
+          "barcode": "2210136215090",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-2-500x500.jpg"
+        ],
+        "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp"
+      }
+    ]
+  }
