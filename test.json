@@ -787,21 +787,21 @@
       },
       {
         "id": "3320b604ea4f405f9ed551fb",
-        "title": "b",
-        "description": "Lenovo IdeaPad Slim 3 15ABR8 Ryzen 5 15.6 FHD Laptop The Lenovo IdeaPad Slim 3 15ABR8 is a powerful and sleek laptop that combines performance and portability to enhance your computing experience. Whether you're working, studying, or enjoying multimedia entertainment, this laptop is designed to cater to your needs. The laptop is equipped with an AMD Ryzen 5 7530U processor, which delivers excellent performance with a base clock speed of 2.0GHz. When needed, the processor can dynamically boost its clock speed up to 4.5GHz, ensuring smooth multitasking and efficient handling of demanding tasks. With 8GB of DDR4 RAM, you'll experience fast and responsive performance, allowing you to run multiple applications simultaneously without significant slowdowns. The laptop is also equipped with a spacious 512GB SSD (Solid State Drive) that not only offers ample storage space for your files but also enhances overall system responsiveness, boot times",
-        "category": "laptop",
-        "price": 310.99,
+        "title": "AOC AGON PRO PD34 PORSCHE DESIGN 34 240Hz 0.3ms WQHD QD-OLED Gaming Curved Monitor",
+        "description": "AOC AGON PRO PD34 34 240Hz 0.3ms WQHD QD-OLED Gaming Curved Monitor The AOC AGON PRO PD34 34 QD-OLED Gaming Curved Monitor offers gamers and multimedia makers alike an unparalleled level of immersion. With a wide range of vision and an 1800R curvature, the 34-inch curved screen immerses you in the action and increases immersion. With an extraordinarily sharp 2K WQHD resolution of 3440 × 1440, the AOC AGON PRO PD34 34 QD-OLED Gaming Curved Monitor delivers vivid, true-to-life colors thanks to its Quantum Dot OLED display. This monitor is excellent at color accuracy, with coverage of 98% Adobe, 100% sRGB, and 99% DCI-P3. It is ideal for both professional creative work and gaming. Its Delta E < 2 guarantees accurate color reproduction. A scorching 240Hz refresh rate and an incredibly quick 0.03ms GtG reaction time power the remarkable performance of the AOC AGON PRO PD34 34 QD-OLED Gaming Curved Monitor, producing fluid, tear-free images with negligible input lag.",
+        "category": "monitor",
+        "price": 410.99,
         "discountPercentage": 10,
         "rating": 4.7,
         "stock": 35,
         "tags": [
-          "lenovo laptop",
-          "laptop",
-          "Lenovo",
-          "Gaming laptop",
-          "ultra hd laptop"
+          "aoc monitor",
+          "monitor",
+          "aoc",
+          "Gaming monitor",
+          "ultra hd monitor"
         ],
-        "brand": "lenovo",
+        "brand": "aoc",
         "sku": "MPG110R-GUN",
         "weight": 6.5,
         "dimensions": {
@@ -935,12 +935,12 @@
           "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
         },
         "images": [
-          "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-04-500x500.webp",
-          "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-05-500x500.webp",
-          "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-06-500x500.webp",
-          "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-04-500x500.webp"
+          "https://www.startech.com.bd/image/cache/catalog/monitor/aoc/agon-pro-pd34/agon-pro-pd34-01-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/monitor/aoc/agon-pro-pd34/agon-pro-pd34-02-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/monitor/aoc/agon-pro-pd34/agon-pro-pd34-03-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/monitor/aoc/agon-pro-pd34/agon-pro-pd34-06-500x500.webp"
         ],
-        "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-04-500x500.webp"
+        "thumbnail": "https://www.startech.com.bd/image/cache/catalog/monitor/aoc/agon-pro-pd34/agon-pro-pd34-01-500x500.webp"
       }
     ],
     "blogs": [
