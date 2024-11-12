@@ -167,13 +167,13 @@
         "rating": 4.7,
         "stock": 35,
         "tags": [
-          "PC case",
-          "ARGB",
-          "MSI",
-          "Gaming",
-          "Tempered glass"
+          "apple laptop",
+          "laptop",
+          "apple",
+          "Gaming laptop",
+          "ultra hd laptop"
         ],
-        "brand": "MSI",
+        "brand": "apple",
         "sku": "MPG110R-GUN",
         "weight": 6.5,
         "dimensions": {
@@ -315,9 +315,9 @@
         "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp"
       },
       {
-        "id": "79c977fa587c412cbd573563",
+        "id": "5AyMdTiXKAvYDOjT",
         "title": "Lenovo IdeaPad Slim 3 15AMN8 Ryzen 5 7520U 15.6 FHD Laptop Lenovo IdeaPad Slim 3 15AMN8 Ryzen 5 7520U 15.6 FHD Laptop Lenovo IdeaPad Slim 3 15AMN8 Ryzen 5 7520U 15.6 FHD Laptop Lenovo IdeaPad Slim 3 15AMN8 Ryzen 5 7520U 15.6 FHD Laptop",
-        "description": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray Apple's thinnest, lightest notebook, completely transformed by the Apple M1 chip. CPU speeds up to 3.5x faster. GPU speeds up to 5x faster. Our most advanced Neural Engine for up to 9x faster machine learning. The longest battery life ever in a MacBook Air. And a silent, fanless design. This much power has never been this ready to go. Itâ€™s here. Our first chip designed specifically for Mac. Packed with an astonishing 16 billion transistors, the Apple M1 system on a chip (SoC) integrates the CPU, GPU, Neural Engine, I/O, and so much more onto a single tiny chip. With incredible performance, custom technologies, and industry-leading power efficiency,1 M1 is not just a next step for Mac â€” itâ€™s another level entirely.M1 has the fastest CPU weâ€™ve ever made. With that kind of processing speed, MacBook Air can take on new extraordinarily intensive tasks like professional-quality editing and action-packed gaming. But the 8â€core CPU on M1 isnât just up to 3.5x faster than the previous generation2 â€” it balances high-performance cores with efficiency cores that can still crush everyday jobs while using just a tenth of the power.Up to 7-core GPUThe GPU in M1 puts MacBook Air in a class of its own. M1 features the worldâ€s fastest integrated graphics in a personal computer.8 Thatâ€™s up to 5x faster graphics performance compared with the previous generation.",
+        "description": "Lenovo IdeaPad Slim 3 15ABR8 Ryzen 5 15.6 FHD Laptop The Lenovo IdeaPad Slim 3 15ABR8 is a powerful and sleek laptop that combines performance and portability to enhance your computing experience. Whether you're working, studying, or enjoying multimedia entertainment, this laptop is designed to cater to your needs. The laptop is equipped with an AMD Ryzen 5 7530U processor, which delivers excellent performance with a base clock speed of 2.0GHz. When needed, the processor can dynamically boost its clock speed up to 4.5GHz, ensuring smooth multitasking and efficient handling of demanding tasks. With 8GB of DDR4 RAM, you'll experience fast and responsive performance, allowing you to run multiple applications simultaneously without significant slowdowns. The laptop is also equipped with a spacious 512GB SSD (Solid State Drive) that not only offers ample storage space for your files but also enhances overall system responsiveness, boot times",
         "category": "laptop",
         "price": 129.99,
         "discountPercentage": 10,
@@ -330,7 +330,7 @@
           "Gaming laptop",
           "ultra hd laptop"
         ],
-        "brand": "Lenovo",
+        "brand": "lenovo",
         "sku": "MPG110R-GUN",
         "weight": 6.5,
         "dimensions": {
@@ -472,22 +472,22 @@
         "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15amn8/ideapad-slim-3-15amn8-0001-500x500.webp"
       },
       {
-        "id": "79c977fa587c412cbd573564",
-        "title": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray",
-        "description": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray Apple's thinnest, lightest notebook, completely transformed by the Apple M1 chip. CPU speeds up to 3.5x faster. GPU speeds up to 5x faster. Our most advanced Neural Engine for up to 9x faster machine learning. The longest battery life ever in a MacBook Air. And a silent, fanless design. This much power has never been this ready to go. Itâ€™s here. Our first chip designed specifically for Mac. Packed with an astonishing 16 billion transistors, the Apple M1 system on a chip (SoC) integrates the CPU, GPU, Neural Engine, I/O, and so much more onto a single tiny chip. With incredible performance, custom technologies, and industry-leading power efficiency,1 M1 is not just a next step for Mac â€” itâ€™s another level entirely.M1 has the fastest CPU weâ€™ve ever made. With that kind of processing speed, MacBook Air can take on new extraordinarily intensive tasks like professional-quality editing and action-packed gaming. But the 8â€core CPU on M1 isnât just up to 3.5x faster than the previous generation2 â€” it balances high-performance cores with efficiency cores that can still crush everyday jobs while using just a tenth of the power.Up to 7-core GPUThe GPU in M1 puts MacBook Air in a class of its own. M1 features the worldâ€s fastest integrated graphics in a personal computer.8 Thatâ€™s up to 5x faster graphics performance compared with the previous generation.",
+        "id": "TyFfTxYWm3TgBPFv",
+        "title": "Lenovo IdeaPad Slim 3 15ABR8 Ryzen 5 15.6 FHD Laptop",
+        "description": "Lenovo IdeaPad Slim 3 15ABR8 Ryzen 5 15.6 FHD Laptop The Lenovo IdeaPad Slim 3 15ABR8 is a powerful and sleek laptop that combines performance and portability to enhance your computing experience. Whether you're working, studying, or enjoying multimedia entertainment, this laptop is designed to cater to your needs. The laptop is equipped with an AMD Ryzen 5 7530U processor, which delivers excellent performance with a base clock speed of 2.0GHz. When needed, the processor can dynamically boost its clock speed up to 4.5GHz, ensuring smooth multitasking and efficient handling of demanding tasks. With 8GB of DDR4 RAM, you'll experience fast and responsive performance, allowing you to run multiple applications simultaneously without significant slowdowns. The laptop is also equipped with a spacious 512GB SSD (Solid State Drive) that not only offers ample storage space for your files but also enhances overall system responsiveness, boot times",
         "category": "laptop",
         "price": 129.99,
         "discountPercentage": 10,
         "rating": 4.7,
         "stock": 35,
         "tags": [
-          "PC case",
-          "ARGB",
-          "MSI",
-          "Gaming",
-          "Tempered glass"
+          "lenovo laptop",
+          "laptop",
+          "Lenovo",
+          "Gaming laptop",
+          "ultra hd laptop"
         ],
-        "brand": "MSI",
+        "brand": "lenovo",
         "sku": "MPG110R-GUN",
         "weight": 6.5,
         "dimensions": {
@@ -621,12 +621,12 @@
           "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
         },
         "images": [
-          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
-          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
-          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
-          "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-2-500x500.jpg"
+          "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-04-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-05-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-06-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-04-500x500.webp"
         ],
-        "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp"
+        "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-04-500x500.webp"
       }
     ],
     "blogs": [
