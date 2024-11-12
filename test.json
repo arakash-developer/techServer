@@ -630,19 +630,19 @@
       },
       {
         "id": "77aa889abdec4869984c9259",
-        "title": "a",
-        "description": "Lenovo IdeaPad Slim 3 15ABR8 Ryzen 5 15.6 FHD Laptop The Lenovo IdeaPad Slim 3 15ABR8 is a powerful and sleek laptop that combines performance and portability to enhance your computing experience. Whether you're working, studying, or enjoying multimedia entertainment, this laptop is designed to cater to your needs. The laptop is equipped with an AMD Ryzen 5 7530U processor, which delivers excellent performance with a base clock speed of 2.0GHz. When needed, the processor can dynamically boost its clock speed up to 4.5GHz, ensuring smooth multitasking and efficient handling of demanding tasks. With 8GB of DDR4 RAM, you'll experience fast and responsive performance, allowing you to run multiple applications simultaneously without significant slowdowns. The laptop is also equipped with a spacious 512GB SSD (Solid State Drive) that not only offers ample storage space for your files but also enhances overall system responsiveness, boot times",
-        "category": "laptop",
-        "price": 129.99,
+        "title":"Lenovo IdeaCentre AIO 3 24IAP7 Core i5 13th Gen 23.8 All-in-One Desktop PC",
+        "description": "Lenovo IdeaCentre AIO 3 24IAP7 Core i5 13th Gen 23.8 All-in-One PC The Lenovo IdeaCentre AIO 3 24IAP7 is a sleek and powerful all-in-one PC designed to provide an optimal blend of performance, efficiency, and style. Ideal for both home and office use, this machine delivers robust computing capabilities within a streamlined, space-saving design. It is equipped with an Intel Core i5-13420H processor, a 13th generation chip that features a 12M cache and a base clock speed of 3.4 GHz, capable of turbo boosting up to 4.6 GHz. This ensures smooth performance for multitasking, productivity applications, and even some light gaming. The device has enough capacity to run many apps at once and run more demanding software without experiencing any lags thanks to its 16GB RAM. In addition to offering speedy program launches and short boot times, the 512GB SSD has enough storage capacity for applications, media files, and documents.",
+        "category": "pc",
+        "price": 900.99,
         "discountPercentage": 10,
         "rating": 4.7,
         "stock": 35,
         "tags": [
-          "lenovo laptop",
-          "laptop",
-          "Lenovo",
-          "Gaming laptop",
-          "ultra hd laptop"
+          "PC case",
+          "ARGB",
+          "MSI",
+          "Gaming",
+          "Tempered glass"
         ],
         "brand": "lenovo",
         "sku": "MPG110R-GUN",
@@ -778,12 +778,12 @@
           "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
         },
         "images": [
-          "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-04-500x500.webp",
-          "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-05-500x500.webp",
-          "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-06-500x500.webp",
-          "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-04-500x500.webp"
+          "https://www.startech.com.bd/image/cache/catalog/desktop-pc/all-in-one/lenovo/f0gh003dlk/f0gh003dlk-02-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/desktop-pc/all-in-one/lenovo/f0gh003dlk/f0gh003dlk-03-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/desktop-pc/all-in-one/lenovo/f0gh003dlk/f0gh003dlk-04-500x500.webp",
+          "https://www.startech.com.bd/image/cache/catalog/desktop-pc/all-in-one/lenovo/f0gh003dlk/f0gh003dlk-05-500x500.webp"
         ],
-        "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-04-500x500.webp"
+        "thumbnail": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/all-in-one/lenovo/f0gh003dlk/f0gh003dlk-01-500x500.webp"
       },
       {
         "id": "3320b604ea4f405f9ed551fb",
