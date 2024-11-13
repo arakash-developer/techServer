@@ -947,7 +947,7 @@
       "title": "Lenovo Yoga PRO 7 14ARP8 Ryzen 7 7735HS RTX 3050 6GB Graphics 14.5 3K Gaming Laptop",
       "description": "Lenovo Yoga PRO 7 14ARP8 Ryzen 7 7735HS RTX 3050 6GB Graphics 14.5 3K Gaming Laptop The Lenovo Yoga PRO 7 14ARP8 is a premium 14.5 3K gaming laptop that smoothly integrates high performance and stylish design, making it an ideal choice for both gamers and professionals. This Yoga PRO 7 14ARP8 laptop is powered by the powerful AMD Ryzen 7 7735HS CPU, which has a basic clock speed of 3.2GHz and can turbo boost up to 4.75GHz across its 8 cores. This offers strong performance, allowing for seamless multitasking and fast handling of demanding workloads. With 16GB of LPDDR5 RAM, the Yoga PRO 7 provides quick and efficient memory management, letting users to run numerous apps without latency. The 512GB SSD has plenty of storage space and offers fast boot times and access to data and apps. The Yoga PRO 7 14ARP8 laptop's NVIDIA GeForce RTX 3050 graphics card, which has 6GB of GDDR6 RAM, provides spectacular images and great performance, making it ideal for gaming, video editing, and other graphics-intensive applications.",
       "category": "laptop",
-      "price": 410.99,
+      "price": 510.99,
       "discountPercentage": 10,
       "rating": 4.7,
       "stock": 35,
@@ -1100,10 +1100,11 @@
       "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-pro-7-14arp8/yoga-pro-7-14arp8-01-500x500.webp"
     },
     {
-      "title": "Akash Lenovo Yoga PRO 7 14ARP8 Ryzen 7 7735HS RTX 3050 6GB Graphics 14.5 3K Gaming Laptop",
+      "id" : "b5ca8c02c4cf41d2beaf46ec",
+      "title": "Lenovo LOQ 15IRX9 Core i5 13th Gen RTX 3050 6GB Graphics 15.6",
       "description": "Lenovo Yoga PRO 7 14ARP8 Ryzen 7 7735HS RTX 3050 6GB Graphics 14.5 3K Gaming Laptop The Lenovo Yoga PRO 7 14ARP8 is a premium 14.5 3K gaming laptop that smoothly integrates high performance and stylish design, making it an ideal choice for both gamers and professionals. This Yoga PRO 7 14ARP8 laptop is powered by the powerful AMD Ryzen 7 7735HS CPU, which has a basic clock speed of 3.2GHz and can turbo boost up to 4.75GHz across its 8 cores. This offers strong performance, allowing for seamless multitasking and fast handling of demanding workloads. With 16GB of LPDDR5 RAM, the Yoga PRO 7 provides quick and efficient memory management, letting users to run numerous apps without latency. The 512GB SSD has plenty of storage space and offers fast boot times and access to data and apps. The Yoga PRO 7 14ARP8 laptop's NVIDIA GeForce RTX 3050 graphics card, which has 6GB of GDDR6 RAM, provides spectacular images and great performance, making it ideal for gaming, video editing, and other graphics-intensive applications.",
       "category": "laptop",
-      "price": 410.99,
+      "price": 610.99,
       "discountPercentage": 10,
       "rating": 4.7,
       "stock": 35,
@@ -1248,12 +1249,12 @@
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-pro-7-14arp8/yoga-pro-7-14arp8-01-500x500.webp",
-        "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-pro-7-14arp8/yoga-pro-7-14arp8-03-500x500.webp",
-        "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-pro-7-14arp8/yoga-pro-7-14arp8-04-500x500.webp",
-        "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-pro-7-14arp8/yoga-pro-7-14arp8-05-500x500.webp"
+        "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/loq-15iax9/loq-15iax9-01-500x500.webp",
+        "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/loq-15iax9/loq-15iax9-04-500x500.webp",
+        "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/loq-15iax9/loq-15iax9--03-500x500.webp",
+        "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/loq-15iax9/loq-15iax9-05-500x500.webp"
       ],
-      "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-pro-7-14arp8/yoga-pro-7-14arp8-01-500x500.webp"
+      "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/loq-15iax9/loq-15iax9-01-500x500.webp"
     }
   ],
   "blogs": [
