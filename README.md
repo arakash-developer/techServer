@@ -22,7 +22,169 @@ server.use(router);
 
 server.listen(port);
 
-```
+
+
+
+
+{
+  "id" : "",
+  "title": "",
+  "description":"",
+  "category": "",
+  "price": ,
+  "discountPercentage": 10,
+  "rating": 4.7,
+  "stock": 35,
+  "tags": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "brand": "",
+  "sku": "MPG110R-GUN",
+  "weight": 6.5,
+  "dimensions": {
+    "width": 215,
+    "height": 450,
+    "depth": 430
+  },
+  "warrantyInformation": "2-year limited warranty",
+  "shippingInformation": "Ships within 3-5 business days",
+  "availabilityStatus": "In Stock",
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Amazing product, would buy again!",
+      "date": "2024-12-15T10:26:00.000Z",
+      "reviewerName": "Evan Williams",
+      "reviewerEmail": "alice@example.com"
+    },
+    {
+      "rating": 3,
+      "comment": "Good value for the price.",
+      "date": "2024-08-27T08:46:00.000Z",
+      "reviewerName": "Bob Smith",
+      "reviewerEmail": "dana@example.com"
+    },
+    {
+      "rating": 3,
+      "comment": "Works as expected, no complaints.",
+      "date": "2024-06-22T00:03:00.000Z",
+      "reviewerName": "Bob Smith",
+      "reviewerEmail": "bob@example.com"
+    },
+    {
+      "rating": 5,
+      "comment": "Not satisfied, lacks essential features.",
+      "date": "2024-10-21T15:40:00.000Z",
+      "reviewerName": "Dana Lee",
+      "reviewerEmail": "bob@example.com"
+    },
+    {
+      "rating": 2,
+      "comment": "Amazing product, would buy again!",
+      "date": "2024-08-19T15:34:00.000Z",
+      "reviewerName": "Bob Smith",
+      "reviewerEmail": "dana@example.com"
+    },
+    {
+      "rating": 2,
+      "comment": "Could be better, but does the job.",
+      "date": "2024-04-13T11:23:00.000Z",
+      "reviewerName": "Alice Brown",
+      "reviewerEmail": "alice@example.com"
+    },
+    {
+      "rating": 3,
+      "comment": "Amazing product, would buy again!",
+      "date": "2024-04-18T19:33:00.000Z",
+      "reviewerName": "Bob Smith",
+      "reviewerEmail": "charlie@example.com"
+    },
+    {
+      "rating": 1,
+      "comment": "Not satisfied, lacks essential features.",
+      "date": "2024-12-13T19:50:00.000Z",
+      "reviewerName": "Charlie Johnson",
+      "reviewerEmail": "alice@example.com"
+    },
+    {
+      "rating": 1,
+      "comment": "Could be better, but does the job.",
+      "date": "2024-02-14T15:24:00.000Z",
+      "reviewerName": "Bob Smith",
+      "reviewerEmail": "dana@example.com"
+    },
+    {
+      "rating": 5,
+      "comment": "Not satisfied, lacks essential features.",
+      "date": "2024-05-09T06:55:00.000Z",
+      "reviewerName": "Alice Brown",
+      "reviewerEmail": "evan@example.com"
+    },
+    {
+      "rating": 3,
+      "comment": "Good value for the price.",
+      "date": "2024-04-08T05:01:00.000Z",
+      "reviewerName": "Evan Williams",
+      "reviewerEmail": "bob@example.com"
+    },
+    {
+      "rating": 1,
+      "comment": "Amazing product, would buy again!",
+      "date": "2024-12-24T12:26:00.000Z",
+      "reviewerName": "Dana Lee",
+      "reviewerEmail": "charlie@example.com"
+    },
+    {
+      "rating": 4,
+      "comment": "Amazing product, would buy again!",
+      "date": "2024-08-28T11:27:00.000Z",
+      "reviewerName": "Dana Lee",
+      "reviewerEmail": "evan@example.com"
+    },
+    {
+      "rating": 2,
+      "comment": "Not satisfied, lacks essential features.",
+      "date": "2024-12-18T07:32:00.000Z",
+      "reviewerName": "Evan Williams",
+      "reviewerEmail": "charlie@example.com"
+    },
+    {
+      "rating": 1,
+      "comment": "Works as expected, no complaints.",
+      "date": "2024-01-14T02:40:00.000Z",
+      "reviewerName": "Evan Williams",
+      "reviewerEmail": "alice@example.com"
+    },
+    {
+      "rating": 2,
+      "comment": "Could be better, but does the job.",
+      "date": "2024-05-14T09:34:00.000Z",
+      "reviewerName": "Alice Brown",
+      "reviewerEmail": "alice@example.com"
+    }
+  ],
+  "returnPolicy": "30-day return policy",
+  "minimumOrderQuantity": 1,
+  "meta": {
+    "createdAt": "2024-10-17T10:56:21.619Z",
+    "updatedAt": "2024-10-17T10:56:21.619Z",
+    "barcode": "2210136215090",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+  },
+  "images": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "thumbnail": ""
+}
+
+
 
 **Step 7** - Add db.json and add .gitignore file
 
@@ -32,8 +194,8 @@ server.listen(port);
 4. 
 5. 
 6. 
-7. 71f27284ca8f4a5f8e998c71
-8. b313cd33a16f40beb28a0a43
+7. 
+8. 
 9. 985dfe7150bf4c63ad14181d
 10. e038aee7bc044555ba59a4f9
 11. 4af6aa0259324ff09d7268ef
